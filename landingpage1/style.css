@@ -1,0 +1,93 @@
+.container{
+    display: inline;
+    
+}
+body,html{
+    height: 100%;
+  
+}
+.wholepage{
+    width: 100%;
+    height: 100%;
+    background-image:url('/images/house5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+   
+}
+.layer{
+   background-color: rgba(0,0,0,0.5);
+   height: 100%;
+   width: 100%;
+}
+
+
+.interior{
+    text-decoration:none ;
+    font-size: 30px;
+    color:white;
+    position: relative;
+    top:20px;
+}
+
+.home{
+    font-size: 17px;
+    color:white;
+    position: relative;
+    top:20px;
+}
+.kitchen{
+    font-size: 17px;
+    color:white;
+    position: relative;
+    top:20px;
+
+}
+.dining{
+    font-size: 17px;
+    color:white;
+    position: relative;
+    top:20px;
+
+}
+.bedroom{
+    font-size: 17px;
+    color:white;
+    position: relative;
+    top:20px;
+}
+.backyard{
+    font-size: 17px;
+    color:white;
+    position: relative;
+    top:20px;
+}
+.design{
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+h4{
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
+.col1{
+    width: 165px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 20px;
+    border-radius: 20px;
+}
+.col2{
+    width: 165px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 20px;
+    border-radius: 20px;
+}
